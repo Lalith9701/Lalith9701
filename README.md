@@ -72,7 +72,7 @@
 </p> 
 
 
-## 🐍 Contribution Snake Animation  
+## 🐍 Contribution Snake  
 
 ![Snake animation](https://github.com/Lalith9701/Lalith9701/blob/output/github-contribution-grid-snake.svg)
 
