@@ -8,20 +8,13 @@
   <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,mysql,git,figma" />
 </p>
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalith9701&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lalith9701&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalith9701&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lalith9701&layout=compact&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith9701&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
 
 ## 🔥 Featured Projects
 
