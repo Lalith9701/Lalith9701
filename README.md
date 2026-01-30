@@ -12,6 +12,13 @@
 💡 Passionate about **Full Stack Development, Python Projects & Machine Learning Applications**  
 🚀 Actively looking for **Campus Placement Opportunities**  
 📍 From Guntakal, Andhra Pradesh, India  
+## 📄 Resume
+
+<p align="center">
+  <a href="./Lalith_Charan_Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -53,77 +60,8 @@
 ✅ **Machine Learning:** Scikit-learn, Pandas, NumPy  
 ✅ **Databases:** MySQL, SQLite  
 
---- 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalith9701&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lalith9701&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith9701&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lalith9701&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-
----
-
-## 🔥 Featured Projects  
-
-### 🎓 AI Student Report System  
-**Tech:** Python, Flask, Machine Learning  
-Web dashboard that analyzes student performance using ML models, generating predictive insights and downloadable reports.  
-🔗 Repo: https://github.com/Lalith9701/AI-Student-Report-System  
-
----
-
-### 😌 Stress Predictor Application  
-**Tech:** Python, Machine Learning, Tkinter  
-ML-based stress prediction tool with user-friendly GUI and recommendation system based on prediction results.  
-🔗 Repo: https://github.com/Lalith9701/Stress-Predictor  
-
----
-
-### 🏫 School Attendance Management System  
-**Tech:** Django, Python  
-Attendance tracking system to efficiently record and manage student data with clean admin controls.  
-🔗 Repo: https://github.com/Lalith9701/SCHOOL_ATTENDANCE  
-
----
-
-### 🍽️ The Angels Restaurant Web Application  
-**Tech:** Django, HTML, CSS, JavaScript  
-Full-stack restaurant platform featuring categorized menus and responsive UI experience.  
-🔗 Repo: https://github.com/Lalith9701/THE-ANGELS-RESTAURANT  
-
----
-
-### 🏠 Property Rentals  
-**Tech:** HTML, CSS, JavaScript  
-Responsive web application for browsing rental properties with filtering by price and location.  
-🔗 Repo: https://github.com/Lalith9701/Property-Rentals  
-
----
-
-### 🐍 Multi-Strategy Python Project  
-**Tech:** Python  
-Collection of automation and problem-solving scripts showcasing data processing and experimental logic.  
-🔗 Repo: https://github.com/Lalith9701/python-project  
-
----
 
 ## 🏆 Certifications  
 
