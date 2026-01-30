@@ -12,13 +12,6 @@
 💡 Passionate about **Full Stack Development, Python Projects & Machine Learning Applications**  
 🚀 Actively looking for **Campus Placement Opportunities**  
 📍 From Guntakal, Andhra Pradesh, India  
-## 📄 Resume
-
-<p align="center">
-  <a href="./lalithcharanresume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -61,8 +54,6 @@
 ✅ **Databases:** MySQL, SQLite  
 
 
-
-
 ## 🏆 Certifications  
 
 ✅ Deloitte Technology Job Simulation – Forage  
@@ -72,11 +63,20 @@
 ✅ Android App Development Bootcamp (Kotlin) – Udemy  
 
 ---
+## 📄 Resume
+
+<p align="center">
+  <a href="./lalithcharanresume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p> 
+
 
 ## 🐍 Contribution Snake Animation  
 
 ![Snake animation](https://github.com/Lalith9701/Lalith9701/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
 
 ⭐ *Thanks for visiting my GitHub Profile! Feel free to connect and collaborate.*
