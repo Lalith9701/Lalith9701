@@ -79,4 +79,4 @@
 ---
 
 
-⭐ *Thanks for visiting my GitHub Profile! Feel free to connect and collaborate.*
+⭐ *Thanks for visiting my GitHub Profile! Feel free to check my Repositories.*
