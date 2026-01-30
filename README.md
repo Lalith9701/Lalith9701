@@ -66,7 +66,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/Lalith9701/Lalith9701/raw/main/lalithcharanresume.pdf" target="_blank">
+  <a href="https://github.com/Lalith9701/Lalith9701/raw/main/lalithcharanresume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
