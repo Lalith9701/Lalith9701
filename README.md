@@ -53,23 +53,23 @@
 ✅ **Machine Learning:** Scikit-learn, Pandas, NumPy  
 ✅ **Databases:** MySQL, SQLite  
 
----
+--- 
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lalith9701&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lalith9701&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalith9701&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Lalith9701&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lalith9701&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalith9701&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -77,6 +77,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lalith9701&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
