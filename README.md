@@ -15,7 +15,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="./Lalith_Charan_Resume.pdf">
+  <a href="./lalithcharanresume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
