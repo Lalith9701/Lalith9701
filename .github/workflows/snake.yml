@@ -5,17 +5,27 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake Animation
+
+      # ✅ Step 1: Checkout repository (Fixes error 128)
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      # ✅ Step 2: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Lalith9701
           outputs: dist/github-contribution-grid-snake.svg
 
+      # ✅ Step 3: Deploy to output branch
       - name: Deploy Snake Animation
         uses: JamesIves/github-pages-deploy-action@v4
         with:
