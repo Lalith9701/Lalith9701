@@ -45,7 +45,7 @@
 ## 🛠 Technical Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,mysql,sqlite,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,mysql,sqlite,git,github,vscode" />
 </p>
 
 ✅ **Languages:** Python, JavaScript (Basics), SQL  
