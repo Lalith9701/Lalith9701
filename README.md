@@ -71,12 +71,5 @@
   </a>
 </p>
 
-
-## 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/Lalith9701/Lalith9701/blob/output/github-contribution-grid-snake.svg)
-
 ---
-
-
 ⭐ *Thanks for visiting my GitHub Profile! Feel free to check my Repositories.**🔽
