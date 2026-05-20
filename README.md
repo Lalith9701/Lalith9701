@@ -119,6 +119,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=100&section=footer"/>
 
-*⭐ If you find my work interesting, feel free to star my repositories and connect!*
+*Code is like humor. When you have to explain it, it's bad." – Cory House*
+ ⭐ If you find my work interesting, consider giving a star to my repositories!
 
 </div>
