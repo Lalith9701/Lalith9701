@@ -61,34 +61,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 [AI Student Report System](https://github.com/Lalith9701)
-> Flask · Machine Learning · Data Visualization · Predictive Analytics
-
-A Flask-based ML web application that analyzes student performance and generates insightful reports using data visualization and predictive analytics.
-
----
-
-### 🧠 [Stress Predictor Application](https://github.com/Lalith9701)
-> Python · Machine Learning · Tkinter GUI
-
-A desktop application with a Tkinter GUI that predicts stress levels from user inputs, focusing on accurate model inference and usability.
-
----
-
-### 🩸 [Blood Bank Management System](https://github.com/Lalith9701)
-> Django · Role-Based Access Control · Real-Time Inventory
-
-A Django web application with Admin, Donor, and Requester roles, featuring real-time blood inventory tracking and request management.
-
----
-
-### 📈 [Trading Bot — Binance Testnet](https://github.com/Lalith9701)
-> Python · CLI · Algorithmic Trading · REST API
-
-An automated Python CLI trading bot that places Market and Limit orders on Binance Futures Testnet, with input validation, structured logging, and robust error handling.
-
 ---
 
 ## 📊 GitHub Stats
