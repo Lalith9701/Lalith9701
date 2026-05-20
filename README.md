@@ -109,7 +109,9 @@ An automated Python CLI trading bot that places Market and Limit orders on Binan
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lalith9701&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lalith9701&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lalith9701&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
