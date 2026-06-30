@@ -29,7 +29,7 @@
 💼 Aspiring software developer with hands-on experience in **Python, Django, Flask, and Machine Learning**  
 🚀 Building efficient, scalable web applications with clean, maintainable code  
 🔍 Actively seeking **Campus Placement Opportunities**  
-⚡ Fun fact: Solved **100+ problems on LeetCode** and counting!
+⚡ Fun fact: Solved **175+ problems on LeetCode** and counting!
 
 ---
 
